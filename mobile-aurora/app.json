@@ -1,0 +1,10 @@
+{
+  "android": {
+    "package": "com.anonymous.mobileaurora"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "3434c822-fd15-48a6-9d33-c3d611a169af"
+    }
+  }
+}
